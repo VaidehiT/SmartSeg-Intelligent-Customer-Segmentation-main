@@ -26,6 +26,4 @@ This project demonstrates customer segmentation for a shopping mall using machin
 
 The dataset used for this project can be found on Kaggle: Customer Segmentation Dataset
 
-📞 Contact Information
 
-Vaidehi TakalkarEmail: vaidehitakalkar58@gmail.comLinkedIn: Vaidehi TakalkarGitHub: vaidehi-cmd
